@@ -1,4 +1,3 @@
-import "./style.css";
 import MyLogo from "./MyLogo.js";
 
 const title = document.querySelector("h1");
